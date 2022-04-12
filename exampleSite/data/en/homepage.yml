@@ -43,7 +43,7 @@ blog:
   title: Post
 publication:
   enable: true
-  title: Publication
+  title: "-Project-"
 travel:
   enable: true
   title: Travel
