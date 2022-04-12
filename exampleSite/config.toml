@@ -75,7 +75,7 @@ enable = true
 preloader = ""
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "#https://www.instagram.com/zilinzhou0121/"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"
