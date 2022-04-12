@@ -58,11 +58,10 @@ contact_form:
 contact_info:
   enable: true
   title: Get In Touch
-  content: Let’s talk about your project and how I can help you or if you just want
-    to chat about design and art - shoot me a message at abcxmple@gmail.com
+  content: Any interesting stories, you can send to zilinzhoudesign@gmail.com
   contact_item:
   - icon: ti-email
-    id: s.vanbuuren@uu.nl
+    id: zilinzhoudesign@gmail.com
   - icon: ti-mobile
     id: "+8801856388817"
   - icon: ti-location-pin
