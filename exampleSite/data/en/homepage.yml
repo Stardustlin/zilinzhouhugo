@@ -40,7 +40,7 @@ project:
   title: Blog
 blog:
   enable: true
-  title: Publication
+  title: Blog
 publication:
   enable: true
   title: Project
