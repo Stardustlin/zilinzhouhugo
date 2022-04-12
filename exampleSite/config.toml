@@ -36,8 +36,8 @@ name = "blog"
 weight = "4"
 [[menu.main]]
 URL = "publication"
-name = "Publication"
-weight = "5"
+name = "Project"
+weight = "3"
 [[menu.main]]
 URL = "talk"
 name = "Travel"
