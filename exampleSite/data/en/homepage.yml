@@ -44,7 +44,7 @@ blog:
 publication:
   enable: true
   title: Publication
-travel:
+talk:
   enable: true
   title: Travel
 zilinxxx:
