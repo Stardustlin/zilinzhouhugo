@@ -50,7 +50,7 @@ weight = 7
 author = "Themefisher"
 description = "This is meta description"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/logo2.png"
 particles = true
 [params.navigation_button]
 enable = true
@@ -73,14 +73,6 @@ link = "plugins/reading-time/readingTime.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
 link = "#"
