@@ -50,7 +50,7 @@ blog:
 contact_form:
   enable: true
   title: Contact Me
-  contact_form_action: "#"
+  contact_form_action: https://formspree.io/f/mdobonbv
   name_label: Your Name
   email_label: Your Email
   textarea_label: Your Message
