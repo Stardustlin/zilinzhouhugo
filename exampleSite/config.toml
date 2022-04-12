@@ -16,51 +16,46 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[Languages.zh]
-contentDir = "content/chinese"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-languageCode = "zh-cn"
-languageName = "中"
-weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Zilinxxx"
-weight = 8
+URL = "Zilinxxx"
+name = "zilinxxx"
+weight = "8"
 [[menu.main]]
-URL = "travel"
-name = "travel"
-weight = 6
-[[menu.main]]
-URL = "publication"
-name = "publication"
-weight = 5
-[[menu.main]]
-URL = "project"
-name = "project"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
+URL = "home"
+name = "home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "about"
 weight = 2
 [[menu.main]]
-URL = "home"
-name = "home"
-weight = 1
+URL = "project"
+name = "Project"
+weight = "3"
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = "4"
+[[menu.main]]
+URL = "publication"
+name = "Publication"
+weight = "5"
+[[menu.main]]
+URL = "travel"
+name = "Travel"
+weight = "6"
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "This is meta description"
 google_analitycs_id = ""
 logo = "images/logo2.png"
-particles = false
+particles = true
 [params.navigation_button]
 enable = false
 label = "contact"
