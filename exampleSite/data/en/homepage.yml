@@ -35,18 +35,18 @@ expertise:
   - name: Sustainability Research
     content: 'Sustainable Material study: Wood, Paper; Energy Strategy: LCA, Energy
       recycling system'
-publication:
-  enable: true
-  title: Publications
-talk:
-  enable: true
-  title: Recent & Upcoming Talks
 project:
   enable: true
-  title: My Projects
+  title: Project
 blog:
   enable: true
-  title: Blog Post
+  title: Post
+publication:
+  enable: true
+  title: Publication
+travel:
+  enable: true
+  title: Travel
 contact_form:
   enable: true
   title: Contact Me
