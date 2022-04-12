@@ -28,6 +28,17 @@ fields:
   label: description
 - name: link
   type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: false
+    label: label
+  - name: link
+    type: text
+    config:
+      required: false
+    label: link
   config:
     min: 
     max: 
