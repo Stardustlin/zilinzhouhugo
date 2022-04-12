@@ -47,6 +47,9 @@ publication:
 travel:
   enable: true
   title: Travel
+zilinxxx:
+  enable: true
+  title: Zilinxxx
 contact_form:
   enable: true
   title: Contact Me
