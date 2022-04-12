@@ -28,7 +28,7 @@ name = "about"
 weight = 2
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "project"
 weight = "3"
 [[menu.main]]
 URL = "blog"
@@ -36,11 +36,11 @@ name = "blog"
 weight = "4"
 [[menu.main]]
 URL = "publication"
-name = "Publication"
+name = "publication"
 weight = "5"
 [[menu.main]]
 URL = "travel"
-name = "Travel"
+name = "travel"
 weight = "6"
 [[menu.main]]
 URL = "contact"
