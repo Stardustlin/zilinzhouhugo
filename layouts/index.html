@@ -107,8 +107,8 @@
       <div class="col-12 mb-5">
         <h2>{{ $data.homepage.publication.title | markdownify }}</h2>
       </div>
-      {{ range first 3 (where .Site.RegularPages "Section" "==" "publications" )}}
-      <div class="col-md-12 col-sm-6 mb-4">
+      {{ range first 6 (where .Site.RegularPages "Section" "==" "publications" )}}
+      <div class="col-sm-6 mb-4">
         {{ .Render "publication" }}
       </div>
       {{ end }}
