@@ -1,4 +1,9 @@
 ---
 label: Projects
 hide_body: true
-fields: []
+fields:
+- name: project
+  type: file
+  config:
+    maxSize: 64
+  label: Project
