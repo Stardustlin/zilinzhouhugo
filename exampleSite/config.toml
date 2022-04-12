@@ -35,6 +35,10 @@ URL = "blog"
 name = "blog"
 weight = "4"
 [[menu.main]]
+URL = "publication"
+name = "Publication"
+weight = "5"
+[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
