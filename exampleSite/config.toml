@@ -27,17 +27,17 @@ URL = "about"
 name = "about"
 weight = 2
 [[menu.main]]
-URL = "xxx"
+URL = "publication"
 name = "Project"
 weight = "3"
+[[menu.main]]
+URL = "project"
+name = "Blog"
+weight = "4"
 [[menu.main]]
 URL = "blog"
 name = "blog"
 weight = "4"
-[[menu.main]]
-URL = "publication"
-name = "Project"
-weight = "3"
 [[menu.main]]
 URL = "talk"
 name = "Travel"
