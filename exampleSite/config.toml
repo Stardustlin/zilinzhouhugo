@@ -1,5 +1,5 @@
 baseURL = "https://zilinzhoudesign.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 paginate = "4"
 summaryLength = "10"
 theme = "gofolium"
