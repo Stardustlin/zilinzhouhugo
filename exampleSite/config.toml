@@ -19,6 +19,10 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+URL = "travel"
+name = "Travel"
+weight = "6"
+[[menu.main]]
 URL = "home"
 name = "home"
 weight = 1
