@@ -37,7 +37,7 @@ expertise:
       recycling system'
 project:
   enable: true
-  title: Blog
+  title: Project
 blog:
   enable: true
   title: Blog
