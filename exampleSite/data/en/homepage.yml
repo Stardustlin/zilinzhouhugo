@@ -32,8 +32,9 @@ expertise:
   expertise_item:
   - name: Parametric Design
     content: Grasshopper, Rhino, Revit, C#, Python
-  - name: Statical Meathod Learning
-    content: 'Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn'
+  - name: Sustainability Research
+    content: 'Sustainable Material study: Wood, Paper; Energy Strategy: LCA, Energy
+      recycling system'
 publication:
   enable: true
   title: Publications
