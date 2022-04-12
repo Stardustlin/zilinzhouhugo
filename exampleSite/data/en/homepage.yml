@@ -39,13 +39,13 @@ project:
   enable: true
   title: Project
 blog:
-  enable: false
+  enable: true
   title: Post
 publication:
   enable: true
   title: Publication
 travel:
-  enable: false
+  enable: true
   title: Travel
 zilinxxx:
   enable: false
