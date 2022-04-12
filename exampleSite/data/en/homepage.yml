@@ -23,15 +23,9 @@ education:
   - name: MSc in Research Methodology
     duration: September 2000 - May 2004
     academy: University Of California
-  - name: BEng Electronic Engineering
-    duration: September 2000 - May 2004
-    academy: University Of California
-  - name: BEng Electronic Engineering
-    duration: September 2000 - May 2004
-    academy: University Of California
-  - name: MSc in Research Methodology
-    duration: September 2000 - May 2004
-    academy: University Of California
+  - name: Bachelor of Engineering in Architecture
+    duration: September 2015 - June 2020
+    academy: Nanjing University
 expertise:
   enable: true
   title: Expertise
