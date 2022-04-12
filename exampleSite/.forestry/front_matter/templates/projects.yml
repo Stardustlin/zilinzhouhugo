@@ -2,8 +2,8 @@
 label: Projects
 hide_body: true
 fields:
-- name: project
-  type: file
+- name: title
+  type: text
   config:
-    maxSize: 64
-  label: Project
+    required: false
+  label: Title
