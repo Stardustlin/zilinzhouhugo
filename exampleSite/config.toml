@@ -78,10 +78,6 @@ icon = "ti-instagram"
 link = "https://www.instagram.com/zilinzhou0121/"
 title = "instagram"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/zilinzhoudesign/"
 title = "linkedin"
