@@ -42,7 +42,7 @@ blog:
   enable: false
   title: Post
 publication:
-  enable: false
+  enable: true
   title: Publication
 travel:
   enable: false
