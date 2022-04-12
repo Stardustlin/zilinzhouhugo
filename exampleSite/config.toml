@@ -51,7 +51,7 @@ author = "Themefisher"
 description = "This is meta description"
 google_analitycs_id = ""
 logo = "images/logo2.png"
-particles = true
+particles = false
 [params.navigation_button]
 enable = false
 label = "contact"
