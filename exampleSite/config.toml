@@ -19,37 +19,33 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "Zilinxxx"
-name = "zilinxxx"
-weight = "8"
+URL = "travel"
+name = "talk"
+weight = 6
 [[menu.main]]
-URL = "home"
-name = "home"
-weight = 1
+URL = "publication"
+name = "publication"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "project"
+name = "project"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 7
 [[menu.main]]
 URL = "about"
 name = "about"
 weight = 2
 [[menu.main]]
-URL = "project"
-name = "Project"
-weight = "3"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = "4"
-[[menu.main]]
-URL = "publication"
-name = "Publication"
-weight = "5"
-[[menu.main]]
-URL = "travel"
-name = "Travel"
-weight = "6"
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
+URL = "home"
+name = "home"
+weight = 1
 [params]
 author = "Themefisher"
 description = "This is meta description"
