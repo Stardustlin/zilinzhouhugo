@@ -7,14 +7,15 @@ banner:
 about:
   enable: true
   title: ''
-  image: images/author.jpg
-  content: "College graduate with a strong computer science background and experience
-    in exploratory data analysis, machine learning, and statistics. As a Passionate
-    about learning new topics in data science, visualizing data, and doing research.
-    I am like sharing valuable insights and making an impact that helps others learn
-    through.\n\ncode, visualizations, and narratives. Frequent competitor at Kaggle
-    competitions. I'm always open for discussions, so feel free to ask any questions
-    or concerns, I will. "
+  image: images/author1.jpg
+  content: "I studied Architecture at Nanjing University in China and gained the recognition
+    of outstanding graduate. Now, I'm studying at Delft University of Technology,
+    with the Sino-Dutch Bilateral Exchange Scholarship in 2020-2022. I have worked
+    in Roboticplus.AI (Shanghai) Co Ltd, LanD Studio, BEtween Architects as a parametric
+    designer, exhibition designer, and architect. \n\n\nMy passions are in intelligent
+    design and robotic fabrication. I believe my manifesto of Returning to Cross-border
+    Architecture. Architecture design is not only a foray into limited knowledge,
+    but it is also an exploration of the unknown to find new design principles."
 education:
   enable: true
   title: Education
