@@ -3,7 +3,7 @@ disableLanguages = []
 paginate = "4"
 summaryLength = "10"
 theme = "gofolium"
-title = "GoFolium | Hugo Publication Template"
+title = "ZilinZhou | Design"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
